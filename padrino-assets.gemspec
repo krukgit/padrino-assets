@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
     spec.cert_chain  = ['padrino-assets.pem']
   end
 
-  spec.add_dependency 'sprockets', '~> 2.11'
+  spec.add_dependency 'sprockets', '~> 2.12'
   spec.add_dependency 'padrino-core'
   spec.add_dependency 'padrino-helpers'
 
